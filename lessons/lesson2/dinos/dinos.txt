@@ -1,0 +1,14 @@
+tyrannosaurus rex
+velociraptor
+allosaurus
+spinosaurus
+deinonychus
+carnotaurus
+aptosaurus
+diplodocus
+brachiosaurus
+stegosaurus
+ankylosaurus
+triceratops
+iguanodon
+parasaurolophus
